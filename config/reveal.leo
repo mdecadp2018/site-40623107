@@ -21,11 +21,14 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108214712.1" a="E"><vh>個人網站</vh>
+<v t="leo.20181108214712.2"><vh>管理個人其中作業</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -124,10 +127,9 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 2018Fall 40623107網際簡報
 
 ### 虎科大機械設計工程系
-40623107
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
@@ -326,6 +328,26 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181108214712.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108214712.2"># 管理個人其中作業
+
+* 登入github點選連結網址，領取個人其中作業。
+* 把倉儲git clone到近端。
+* 進入倉儲cd site-40623107切換分支git branch確認分支。
+* 在近端啟動倉儲python wsgi.py，這樣的內容管理稱為動態，可以登入來修改維護。
+* 點選generat_pages轉成靜態。
+* 在使用git add .、git commit ...提交推送。
+* 查看遠端https://mcdcadp2018.github.io/site-40623107
+
 </t>
 </tnodes>
 </leo_file>
