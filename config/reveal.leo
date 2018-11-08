@@ -30,6 +30,12 @@
 <v t="leo.20181108214712.1" a="E"><vh>個人網站</vh>
 <v t="leo.20181108214712.2"><vh>管理個人其中作業</vh></v>
 </v>
+<v t="leo.20181109020153.1" a="E"><vh>onshape</vh>
+<v t="leo.20181109020153.2"><vh>onshape基本用法</vh></v>
+</v>
+<v t="leo.20181109021036.1" a="E"><vh>動態網頁</vh>
+<v t="leo.20181109021036.2"><vh>動態網頁問題處理方法</vh></v>
+</v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
@@ -338,7 +344,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108214712.2"># 管理個人其中作業
+<t tx="leo.20181108214712.2">## 管理個人期中作業
 
 * 登入github點選連結網址，領取個人其中作業。
 * 把倉儲git clone到近端。
@@ -349,5 +355,41 @@ make.start()
 * 查看遠端https://mcdcadp2018.github.io/site-40623107
 
 </t>
+<t tx="leo.20181109020153.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109020153.2">## onshape基本用法
+* 草圖 ( sketch-based )
+* 擠出 ( extrude )
+* 旋轉 ( revolve )
+* 掃描 ( sweep )
+* 斷面混成 ( loaf )
+* 薄殼 ( shell ) </t>
+<t tx="leo.20181109021036.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109021036.2">### 動態網頁問題處理方法
+
+* 更新程式碼:
+* 1.從 https://localhost8443 啟動動態網頁
+* 2.動態資料放在config/content.htm
+* 3.動態網頁出問題時可能是系統無法處理,要解決版本的問題
+* 4.舊的程式沒辦法用圖片當作標題,程式升級後就不會產生錯誤
+* 5.升級flaskapp.py試著用同樣程式處理
+* 6.升級時記得content.htm要停留在某一個版本
+
+* 回報問題:如果還是無法處理問題,從課程issues回報問題</t>
 </tnodes>
 </leo_file>
