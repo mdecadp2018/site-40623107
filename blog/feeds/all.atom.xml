@@ -1,12 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623107/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623107/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623107/blog/</id><updated>2018-10-26T09:00:00+08:00</updated><entry><title>week7</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-7.html" rel="alternate"></link><published>2018-10-26T09:00:00+08:00</published><updated>2018-10-26T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623107/blog/2018-Fall-7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="2018Fall"></category></entry><entry><title>week6</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-6.html" rel="alternate"></link><published>2018-10-19T09:00:00+08:00</published><updated>2018-10-19T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623107/blog/2018-Fall-6.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="2018Fall"></category></entry><entry><title>week5</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-5.html" rel="alternate"></link><published>2018-10-12T09:00:00+08:00</published><updated>2018-10-12T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623107/blog/2018-Fall-5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623107/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623107/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623107/blog/</id><updated>2018-10-26T09:00:00+08:00</updated><entry><title>week7</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-7.html" rel="alternate"></link><published>2018-10-26T09:00:00+08:00</published><updated>2018-10-26T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623107/blog/2018-Fall-7.html</id><summary type="html">&lt;p&gt;動態網頁出現問題時處理方法
+</summary><content type="html">&lt;p&gt;動態網頁出現問題時處理方法
+&lt;/p&gt;
+&lt;p&gt;使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程&lt;/p&gt;
+&lt;p&gt;更新程式碼:&lt;/p&gt;
+&lt;p&gt;1.從 https://localhost8443 啟動動態網頁&lt;/p&gt;
+&lt;p&gt;2.動態資料放在config/content.htm&lt;/p&gt;
+&lt;p&gt;3.動態網頁出問題時可能是系統無法處理,要解決版本的問題&lt;/p&gt;
+&lt;p&gt;4.舊的程式沒辦法用圖片當作標題,程式升級後就不會產生錯誤&lt;/p&gt;
+&lt;p&gt;5.升級flaskapp.py試著用同樣程式處理&lt;/p&gt;
+&lt;p&gt;6.升級時記得content.htm要停留在某一個版本&lt;/p&gt;
+&lt;p&gt;回報問題:如果還是無法處理問題,從課程issues回報問題&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week6</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-6.html" rel="alternate"></link><published>2018-10-19T09:00:00+08:00</published><updated>2018-10-19T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623107/blog/2018-Fall-6.html</id><summary type="html">&lt;p&gt;學習onshape
+</summary><content type="html">&lt;p&gt;學習onshape
+&lt;/p&gt;
+&lt;p&gt;onshap lesson教材第三篇&lt;/p&gt;
+&lt;p&gt;1.Using Boolean operations&lt;/p&gt;
+&lt;p&gt;2.Applying linear and circular patterning &lt;/p&gt;
+&lt;p&gt;3.Applying mirror tool&lt;/p&gt;
+&lt;p&gt;4.Assemblies in Onshape&lt;/p&gt;
+&lt;p&gt;5.An introduction to concurrent top-down and bottom-up designs &lt;/p&gt;
+&lt;p&gt;6.Creating a Multi-Part design in a Part Studio&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week5</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-5.html" rel="alternate"></link><published>2018-10-12T09:00:00+08:00</published><updated>2018-10-12T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623107/blog/2018-Fall-5.html</id><summary type="html">&lt;p&gt;學習onshape
+</summary><content type="html">&lt;p&gt;學習onshape
 
-&lt;p&gt;1.再命令提示列打 git version 可以查看p37的版本&lt;/p&gt;
-&lt;p&gt;2.讀onshap lesson教材第二篇&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week4</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-4.html" rel="alternate"></link><published>2018-10-05T09:00:00+08:00</published><updated>2018-10-05T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623107/blog/2018-Fall-4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
+1.再命令提示列打 git version 可以查看p37的版本&lt;/p&gt;
+&lt;p&gt;onshap lesson教材第二篇&lt;/p&gt;
+&lt;p&gt;1.簡介"設計意圖" (design intent)&lt;/p&gt;
+&lt;p&gt;2.設定尺寸 (dimensions) 與約束 (constraints)&lt;/p&gt;
+&lt;p&gt;3.自動推理 (automatic inferencing)&lt;/p&gt;
+&lt;p&gt;4.繪製精確的零件 (accurate part)&lt;/p&gt;
+&lt;p&gt;5.草圖繪製練習&lt;/p&gt;
+&lt;p&gt;6.運用與建立平面 (planes)&lt;/p&gt;
+&lt;p&gt;7.建立圓角 (fillets) 與倒角 (chamfers)&lt;/p&gt;
+&lt;p&gt;8.使用多個 (multiple) 草圖區域 (sketch regions)&lt;/p&gt;
+&lt;p&gt;9.繪製時鐘模型 - 用於設計意圖教學&lt;/p&gt;
+&lt;p&gt;10.各種簡單的幾何形狀 (geometric shapes) &lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week4</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-4.html" rel="alternate"></link><published>2018-10-05T09:00:00+08:00</published><updated>2018-10-05T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623107/blog/2018-Fall-4.html</id><summary type="html">&lt;p&gt;學習onshape基本用法
+</summary><content type="html">&lt;p&gt;學習onshape基本用法
+&lt;/p&gt;
+&lt;p&gt;學習onshape的基本用法&lt;/p&gt;
+&lt;p&gt;1.說明基於草圖 ( sketch-based )的建模&lt;/p&gt;
+&lt;p&gt;2.介紹 4 個基本特徵 ( feature s)（擠出 ( extrude )，旋轉 ( revolve )，掃描 ( sweep )，和斷面混成 ( loaf )）&lt;/p&gt;
+&lt;p&gt;3.從 2D 過渡到 3D&lt;/p&gt;
+&lt;p&gt;4.圓柱薄殼 ( cylinder shell ) - 繪圖界面與可視化 / 檢視的介紹&lt;/p&gt;
+&lt;p&gt;5.針對既有草圖的模型 - 接續建立特徵&lt;/p&gt;
+&lt;p&gt;6.現存公用模型 (public models) - 如何搜尋並復製到工作區 ( workspace )&lt;/p&gt;
 &lt;p&gt;onshap基本練習影片
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MtKTAEVx5x4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week3</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-3.html" rel="alternate"></link><published>2018-09-28T09:00:00+08:00</published><updated>2018-09-28T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623107/blog/2018-Fall-3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MtKTAEVx5x4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week3</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-3.html" rel="alternate"></link><published>2018-09-28T09:00:00+08:00</published><updated>2018-09-28T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623107/blog/2018-Fall-3.html</id><summary type="html">&lt;p&gt;了解onshape
+</summary><content type="html">&lt;p&gt;了解onshape
+&lt;/p&gt;
 &lt;p&gt;1.為甚麼要學習onshape?&lt;/p&gt;
 &lt;p&gt;A:因為Onshape 是一個不需要下載軟體就可以隨時隨地利用網路的連結來進行繪圖，團隊可以在不同地方對單一設計進行修改，不需要特定的電腦或軟體就可以使用，透過雲端儲存，真的是非常的方便。&lt;/p&gt;
 &lt;p&gt;2.為甚麼選擇onshape?&lt;/p&gt;
@@ -15,9 +55,10 @@
 &lt;p&gt;1.下載 zoomit v4.5&lt;/p&gt;
 &lt;p&gt;Zoomit 可以利用 Ctrl + 1 以 Zoomit 的功能放大螢幕，選擇畫面,，以畫筆標示重點，也可以結合 ShareX 的 Ctrl + PrintScreen  擷取圖片&lt;/p&gt;
 &lt;p&gt;2.電腦輔助設計就是:
-Computer Aided (輔助), Guided (導引), Automated (自動), Autonomous (自主) Design&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week1</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-1.html" rel="alternate"></link><published>2018-09-14T09:00:00+08:00</published><updated>2018-09-14T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623107/blog/2018-Fall-1.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+Computer Aided (輔助), Guided (導引), Automated (自動), Autonomous (自主) Design&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week1</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-1.html" rel="alternate"></link><published>2018-09-14T09:00:00+08:00</published><updated>2018-09-14T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623107/blog/2018-Fall-1.html</id><summary type="html">&lt;p&gt;管理個人網站
+</summary><content type="html">&lt;p&gt;管理個人網站
 
-&lt;p&gt;1.登入github點選連結網址，領取個人其中作業。&lt;/p&gt;
+1.登入github點選連結網址，領取個人其中作業。&lt;/p&gt;
 &lt;p&gt;2.把倉儲git clone到近端。&lt;/p&gt;
 &lt;p&gt;3.進入倉儲cd site-40623107切換分支git branch確認分支。&lt;/p&gt;
 &lt;p&gt;4.在近端啟動倉儲python wsgi.py，這樣的內容管理稱為動態，可以登入來修改維護。&lt;/p&gt;
