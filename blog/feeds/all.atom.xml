@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623107/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623107/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623107/blog/</id><updated>2018-10-26T09:00:00+08:00</updated><entry><title>week7</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-7.html" rel="alternate"></link><published>2018-10-26T09:00:00+08:00</published><updated>2018-10-26T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623107/blog/2018-Fall-7.html</id><summary type="html">&lt;p&gt;動態網頁出現問題時處理方法
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623107/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623107/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623107/blog/</id><updated>2018-11-02T09:00:00+08:00</updated><entry><title>week8</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-8.html" rel="alternate"></link><published>2018-11-02T09:00:00+08:00</published><updated>2018-11-02T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-11-02:/site-40623107/blog/2018-Fall-8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;繼續研讀onshap lesson教材第三篇&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What are the 3 types of Boolean Operations and how do they work ? ( 3種類型的 Boolean 運算有哪些？它們如何工作？ ) Feel free to draw pictures if they help.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Boolean : Modify parts by merging parts together (Union), removing a tool part from a target (Subtract), or calculating the intersection between two or more parts (Intersect).&lt;/p&gt;
+&lt;p&gt;Boolean : 通過將零件合併在一起（接合），從目標中移除工具零件（切割）或計算兩個或多個零件之間的交點（相交）來修改零件。&lt;/p&gt;
+&lt;p&gt;若是遇到不會的英文只要逐一閱讀 Onshape 教學文件,  從各單字的英英字典查詢中, 找出用來解釋這些單字的相關單字, 並用心了解各單字的字意與用法, 假以時日, 就能更順暢直接閱讀各種英文資料.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week7</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-7.html" rel="alternate"></link><published>2018-10-26T09:00:00+08:00</published><updated>2018-10-26T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623107/blog/2018-Fall-7.html</id><summary type="html">&lt;p&gt;動態網頁出現問題時處理方法
 </summary><content type="html">&lt;p&gt;動態網頁出現問題時處理方法
 &lt;/p&gt;
 &lt;p&gt;使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程&lt;/p&gt;
@@ -21,8 +29,8 @@
 &lt;p&gt;5.An introduction to concurrent top-down and bottom-up designs &lt;/p&gt;
 &lt;p&gt;6.Creating a Multi-Part design in a Part Studio&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week5</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-5.html" rel="alternate"></link><published>2018-10-12T09:00:00+08:00</published><updated>2018-10-12T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623107/blog/2018-Fall-5.html</id><summary type="html">&lt;p&gt;學習onshape
 </summary><content type="html">&lt;p&gt;學習onshape
-
-1.再命令提示列打 git version 可以查看p37的版本&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;1.再命令提示列打 git version 可以查看p37的版本&lt;/p&gt;
 &lt;p&gt;onshap lesson教材第二篇&lt;/p&gt;
 &lt;p&gt;1.簡介"設計意圖" (design intent)&lt;/p&gt;
 &lt;p&gt;2.設定尺寸 (dimensions) 與約束 (constraints)&lt;/p&gt;
@@ -57,8 +65,8 @@
 &lt;p&gt;2.電腦輔助設計就是:
 Computer Aided (輔助), Guided (導引), Automated (自動), Autonomous (自主) Design&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week1</title><link href="https://mdecadp2018.github.io/site-40623107/blog/2018-Fall-1.html" rel="alternate"></link><published>2018-09-14T09:00:00+08:00</published><updated>2018-09-14T09:00:00+08:00</updated><author><name>40623107</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623107/blog/2018-Fall-1.html</id><summary type="html">&lt;p&gt;管理個人網站
 </summary><content type="html">&lt;p&gt;管理個人網站
-
-1.登入github點選連結網址，領取個人其中作業。&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;1.登入github點選連結網址，領取個人其中作業。&lt;/p&gt;
 &lt;p&gt;2.把倉儲git clone到近端。&lt;/p&gt;
 &lt;p&gt;3.進入倉儲cd site-40623107切換分支git branch確認分支。&lt;/p&gt;
 &lt;p&gt;4.在近端啟動倉儲python wsgi.py，這樣的內容管理稱為動態，可以登入來修改維護。&lt;/p&gt;
