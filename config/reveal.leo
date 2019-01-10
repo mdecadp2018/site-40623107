@@ -27,6 +27,50 @@
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20190111061820.1"><vh>1</vh>
+<v t="leo.20190111061820.2" a="E"><vh>w1~w3</vh>
+<v t="leo.20190111061820.3"><vh>week1~week3</vh></v>
+</v>
+<v t="leo.20190111061820.4" a="E"><vh>個人網站</vh>
+<v t="leo.20190111061820.5"><vh>管理個人其中作業</vh></v>
+</v>
+</v>
+<v t="leo.20190111061825.1"><vh>2</vh>
+<v t="leo.20190111061825.2" a="E"><vh>w4~w6</vh>
+<v t="leo.20190111061825.3"><vh>week4~week6</vh></v>
+</v>
+<v t="leo.20190111061825.4" a="E"><vh>onshape</vh>
+<v t="leo.20190111061825.5"><vh>onshape基本用法</vh></v>
+</v>
+</v>
+<v t="leo.20190111061830.1"><vh>3</vh>
+<v t="leo.20190111061830.2" a="E"><vh>w7~w9</vh>
+<v t="leo.20190111061830.3"><vh>week7~week9</vh></v>
+</v>
+<v t="leo.20190111061830.4" a="E"><vh>動態網頁</vh>
+<v t="leo.20190111061830.5"><vh>動態網頁問題處理方法</vh></v>
+</v>
+</v>
+<v t="leo.20190111061835.1"><vh>4</vh>
+<v t="leo.20190111061835.2" a="E"><vh>w10~w13</vh>
+<v t="leo.20190111061835.3"><vh>week10~week13</vh></v>
+</v>
+</v>
+<v t="leo.20190111061841.1"><vh>5</vh>
+<v t="leo.20190111061841.2" a="E"><vh>w14~w16</vh>
+<v t="leo.20190111061841.3"><vh>week14~week16</vh></v>
+</v>
+</v>
+<v t="leo.20190111061850.1"><vh>6</vh>
+<v t="leo.20190111061850.2" a="E"><vh>w17~w18</vh>
+<v t="leo.20190111061850.3"><vh>week17~week18</vh></v>
+</v>
+</v>
+<v t="leo.20190111061856.1"><vh>7</vh>
+<v t="leo.20190111061856.2" a="E"><vh>總結</vh>
+<v t="leo.20190111061856.3"><vh>心得</vh></v>
+</v>
+</v>
 <v t="leo.20181108214712.1" a="E"><vh>個人網站</vh>
 <v t="leo.20181108214712.2"><vh>管理個人其中作業</vh></v>
 </v>
@@ -370,7 +414,9 @@ make.start()
 * 旋轉 ( revolve )
 * 掃描 ( sweep )
 * 斷面混成 ( loaf )
-* 薄殼 ( shell ) </t>
+* 薄殼 ( shell ) 
+
+</t>
 <t tx="leo.20181109021036.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -390,6 +436,203 @@ make.start()
 * 5.升級flaskapp.py試著用同樣程式處理
 * 6.升級時記得content.htm要停留在某一個版本
 
-* 回報問題:如果還是無法處理問題,從課程issues回報問題</t>
+* 回報問題:如果還是無法處理問題,從課程issues回報問題
+
+</t>
+<t tx="leo.20190111061820.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111061820.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111061820.3"># week1~week3
+
+* 登入github領取個人期中作業，學會在近端取得作業倉儲
+* 持續更新個人倉儲、投影片及網誌
+* 建立onshape帳戶
+</t>
+<t tx="leo.20190111061820.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+</t>
+<t tx="leo.20190111061820.5">## 管理個人期中作業
+
+* 登入github點選連結網址，領取個人其中作業。
+* 把倉儲git clone到近端。
+* 進入倉儲cd site-40623107切換分支git branch確認分支。
+* 在近端啟動倉儲python wsgi.py，這樣的內容管理稱為動態，可以登入來修改維護。
+* 點選generat_pages轉成靜態。
+* 在使用git add .、git commit ...提交推送。
+* 查看遠端https://mcdcadp2018.github.io/site-40623107
+</t>
+<t tx="leo.20190111061825.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190111061825.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111061825.3"># week4~week6
+
+* 學習onshape
+* 每周自主練習onshape手冊練習題
+</t>
+<t tx="leo.20190111061825.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111061825.5">## onshape基本用法
+* 草圖 ( sketch-based )
+* 擠出 ( extrude )
+* 旋轉 ( revolve )
+* 掃描 ( sweep )
+* 斷面混成 ( loaf )
+* 薄殼 ( shell ) 
+</t>
+<t tx="leo.20190111061830.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190111061830.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111061830.3"># week7~week9
+
+* 將倉儲中的 flaskapp.py 更新至最新版本
+* 進行6人一組的期末專案分組
+</t>
+<t tx="leo.20190111061830.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111061830.5">### 動態網頁問題處理方法
+
+* 更新程式碼:
+* 1.從 https://localhost8443 啟動動態網頁
+* 2.動態資料放在config/content.htm
+* 3.動態網頁出問題時可能是系統無法處理,要解決版本的問題
+* 4.舊的程式沒辦法用圖片當作標題,程式升級後就不會產生錯誤
+* 5.升級flaskapp.py試著用同樣程式處理
+* 6.升級時記得content.htm要停留在某一個版本
+* 回報問題:如果還是無法處理問題,從課程issues回報問題
+</t>
+<t tx="leo.20190111061835.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190111061835.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111061835.3"># week10~week13
+
+* 第10周因遇學校校慶放假
+* 下載新版P37
+* 利用 Heroku 雲端服務,與 Github 倉儲內容保持自動同步
+</t>
+<t tx="leo.20190111061841.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190111061841.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111061841.3"># week14~week16
+
+* 學習如何使用v-rep
+* 各組繼續進行專題製作與討論
+</t>
+<t tx="leo.20190111061850.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190111061850.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111061850.3"># week17~week18
+
+* 告知期末評量事項
+* 在期末考周採網際簡報方式, 說明各組所完成的期末專題內容(15分鐘)
+* 同步至 ethercalc 登錄下半學期的自評成績.
+</t>
+<t tx="leo.20190111061856.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190111061856.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111061856.3"># 心得
+
+這學期我在課程中學習了非常多，除了Onshape以外也因為我在組內負責的是V-rep分析，對原本完全沒碰過的機械分析有了初步了解，學習過程中雖然遇到了許多困難，但在組員們的幫忙下，問題一一的解決，使我收穫良多。
+
+</t>
 </tnodes>
 </leo_file>
